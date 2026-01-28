@@ -54,7 +54,7 @@ This project showcases hands-on experience with cloud deployment, automation, an
 
 ## 🌐 Live Demo
 
-🔗 **Website URL:**  file://wsl.localhost/Ubuntu/home/dminshubhu/cloud-static-website-aws/index.html
+🔗 The S3 bucket was created for deployment testing and later removed to avoid ongoing cloud costs.
 =======
 ## 📸 Screenshots
 
