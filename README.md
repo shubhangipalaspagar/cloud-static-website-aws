@@ -1,3 +1,5 @@
+# 🚀 This project was built as part of my Cloud & DevOps learning journey.
+
 # 🚀 Cloud-Deployed Static Website with CI/CD on AWS
 
 This project demonstrates how to deploy a static website on **AWS S3** and automate deployments using **GitHub Actions CI/CD**.  
