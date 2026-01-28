@@ -62,8 +62,5 @@ This project showcases hands-on experience with cloud deployment, automation, an
 ### 🌐 Live Website Hosted on AWS S3
 ![Live Website](screenshots/sample-static-website.png)
 
-### S3 Bucket Created
-![S3 Bucket Created](screenshots/S3bucket.png)
-
 ### Static Website hosting Enabled
 ![Static website hosting enabled](screenshots/static-website-hosting-enabled.png)
